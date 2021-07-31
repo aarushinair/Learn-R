@@ -7,11 +7,16 @@ R provides a wide variety of statistical (linear and nonlinear modelling, classi
 One of R’s strengths is the ease with which well-designed publication-quality plots can be produced, including mathematical symbols and formulae where needed. Great care has been taken over the defaults for the minor design choices in graphics, but the user retains full control.
 
 Documentation: 
+
 Manuals: https://cran.r-project.org/manuals.html
+
 FAQ: https://cran.r-project.org/faqs.html
+
 R-Journal: https://journal.r-project.org/
+
 Books: https://www.r-project.org/doc/bib/R-books.html
 
+✨ ✨ ✨ ✨ ✨ ✨ ✨
 
 👋 Hi, I’m @aarushinair - Aarushi Nair (she/her/ella)
 
