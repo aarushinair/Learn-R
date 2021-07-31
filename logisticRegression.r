@@ -1,4 +1,4 @@
-Perform a simple logistic regression analysis on the binary dataset.
+#Perform a simple logistic regression analysis on the binary dataset.
 
 df <- read.csv(“https://stats.idre.ucla.edu/stat/data/binary.csv")
 str(df)
