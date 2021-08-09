@@ -27,7 +27,6 @@ print(paste("The L.C.M. of", num1,"and", num2,"is", lcm(num1, num2)))
 
 
 
-
 👋 Hi, I’m @aarushinair - Aarushi Nair (she/her/ella)
 👀 I’m a Computer Science Engineering Student
 💞️ I’m looking to collaborate on #java, #python, #R, #applicationdevelopment
