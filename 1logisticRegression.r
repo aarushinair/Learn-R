@@ -12,8 +12,6 @@ x <- data.frame(gre=790,gpa=3.8,rank=as.factor(1))
 
 
 
-
-
 👋 Hi, I’m @aarushinair - Aarushi Nair (she/her/ella)
 👀 I’m a Computer Science Engineering Student
 💞️ I’m looking to collaborate on #java, #python, #R, #applicationdevelopment
