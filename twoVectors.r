@@ -19,8 +19,6 @@ longer object length is not a multiple of shorter object length
 
 
 
-
-
 👋 Hi, I’m @aarushinair - Aarushi Nair (she/her/ella)
 👀 I’m a Computer Science Engineering Student
 💞️ I’m looking to collaborate on #java, #python, #R, #applicationdevelopment
