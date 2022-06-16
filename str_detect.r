@@ -12,7 +12,7 @@ str_detect(x, pat, negate = TRUE )
 
 #Output:
 #[1]  TRUE FALSE FALSE FALSE
-#[2]  FALSE TRUE TRUE TRUE
+#[1]  FALSE TRUE TRUE TRUE
 
 
 
