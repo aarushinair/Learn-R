@@ -12,10 +12,6 @@ print(paste("Hi,", my.name, "next year you will be", my.age+1, "years old."))
 
 
 
-
-
-
-
 👋 Hi, I’m @aarushinair - Aarushi Nair (she/her/ella)
 👀 I’m a Computer Science Engineering Student
 💞️ I’m looking to collaborate on #java, #python, #R, #applicationdevelopment
